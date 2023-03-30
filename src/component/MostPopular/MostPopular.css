@@ -1,0 +1,16 @@
+.section-wrapper{
+    padding: var(--padding-primary);
+    background-color: var(--darkless-color);
+    border-radius: var(--border-redius-primary);
+    margin-top: var(--margin-primary);
+}
+.section-header h4{
+    font-size: 36px;
+    font-weight: 700;
+
+}
+.section-header span{
+    color: var(--primary-color);
+}
+
+
